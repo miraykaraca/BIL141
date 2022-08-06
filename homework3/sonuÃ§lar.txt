@@ -1,0 +1,19 @@
+total vote:645000
+
+KUP-8 delegate-118000 vote- 18.29 vote rate 
+
+DÖP-0 delegate-59000 vote- 9.15 vote rate 
+
+YÖP-4 delegate-86000 vote- 13.33 vote rate 
+
+EAP-16 delegate-254000 vote- 39.38 vote rate 
+
+BBP-0 delegate-35000 vote- 5.43 vote rate 
+
+FDP-5 delegate-93000 vote- 14.42 vote rate 
+
+  Dorne - 1 0 4 1 0 1
+  Winterfell - 6 0 0 0 0 0
+  Riverrun - 0 0 0 1 0 3
+  Braavos - 0 0 0 4 0 1
+  Meereen - 1 0 0 10 0 0
