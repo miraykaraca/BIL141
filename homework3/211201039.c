@@ -156,7 +156,11 @@ int find_largest_number(state* spState,int iCount_Of_party,int i)//max. bulan fo
 			}
 	return max_index;
 	}
-	void print (int x)
+
+    /**
+     * This function created for test 
+     */
+	void printGithubTest (int x)
 	{
 		printf("%d",x);
 	}
