@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// test commit 
+
 typedef struct //party struct
 {
     char party_name[3];
